@@ -1,0 +1,1 @@
+# DotNetCoreWeb_With_Azure_Intra_MSAL
